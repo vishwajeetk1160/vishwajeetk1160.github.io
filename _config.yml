@@ -12,7 +12,8 @@ author: Vishwajeet Kumar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Masters Mathematics and Computing, IIT Kharagpur"
+  About Me: "https://vishwajeetk1160.github.io/about"
+  CV: "https://drive.google.com/file/d/1kAOQRy69iWrbB6Hpz8ov6CR-6qymCcYa/view?usp=sharing"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -146,7 +147,8 @@ footer-link-col: "#404040"
 #utterances:
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
+theme: github-light # Utterances theme
+#theme: jekyll-theme-cayman
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and

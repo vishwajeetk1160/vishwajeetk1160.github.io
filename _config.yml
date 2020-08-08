@@ -12,12 +12,9 @@ author: Vishwajeet Kumar
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "https://vishwajeetk1160.github.io/about"
+  About Me: "https://vishwajeetk1160.github.io/aboutme"
   CV: "https://drive.google.com/file/d/1kAOQRy69iWrbB6Hpz8ov6CR-6qymCcYa/view?usp=sharing"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Web Theme: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -39,13 +36,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "vishwajeetk1160@gmail.com"
+#  facebook: deanattali
+#  github: daattali
+#  twitter: daattali
+  rss: false
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: vishwajeetk1160
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,16 +70,16 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
-link-tags: true
+#link-tags: true
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "vishwajeet,iit,iit kharagpur,kgp,iitkgp,iit kgp,mnc,mathematics and computing,mathematics,masters,maths"
 
 # --- Colours / background image --- #
 
@@ -148,7 +145,7 @@ footer-link-col: "#404040"
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #theme: github-light # Utterances theme
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
